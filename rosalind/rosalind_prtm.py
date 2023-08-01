@@ -2,7 +2,7 @@
 
 import sys
 
-#Chaining the Amino Acids
+#Calculating Protein Mass
 
 #Given: A protein string P of length at most 1000 aa.
 #Return: The total weight of P. Consult the monoisotropic mass table.
